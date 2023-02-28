@@ -12,7 +12,7 @@ src="https://camo.githubusercontent.com/534e02bb6518cd3529bd38725727d9096a98cc0b
 </div>
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
-Sou Estudante do curso de Engenharia da Computação pela [Univesp](https://www.univesp.br/), e estou migrando com sucesso para a área de Desenvolvimento Front-end. Também estudo na [Rocketseat](https://www.rocketseat.com.br/), e estágiario na [Synvia](https://www.synvia.com/),  possuo conhecimentos em `HTML`, `CSS` e `JavaScript`, e estou estudando `TypeScript` e `ReactJS`. 
+Sou Estudante do curso de Engenharia da Computação pela [Univesp](https://www.univesp.br/), e estou migrando com sucesso para a área de Desenvolvimento Front-end. Também estudo na [Rocketseat](https://www.rocketseat.com.br/), e estágiario na [Synvia](https://www.synvia.com/),  possuo conhecimentos em `HTML`, `CSS` e `JavaScript`, e estou estudando `TypeScript`,`Angular` e `ReactJS`. 
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
 
