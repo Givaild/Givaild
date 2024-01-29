@@ -4,11 +4,8 @@
 </header>
 
 
-<div align="center">
-  <img 
-   height="400"
-src="https://camo.githubusercontent.com/534e02bb6518cd3529bd38725727d9096a98cc0b38b169788dc274f00da79ee6/68747470733a2f2f692e696d6775722e636f6d2f413675694e30522e676966"  
-  />
+<div>
+ <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="400" height="320" />
 </div>
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
