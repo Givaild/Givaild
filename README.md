@@ -5,7 +5,8 @@
 
 
 <div>
- <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="400" height="320" />
+<!--  <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="400" height="320" /> -->
+ <img src="https://i.imgur.com/YKjM0ap.gif" alt="CL Thumb" border="0" width="100%">
 </div>
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
