@@ -10,11 +10,11 @@
 </div>
 <img src="https://user-images.githubusercontent.com/102333181/183000071-0c8845b5-e71b-4c74-8912-05e3145f3fa1.png" alt="Brazil's flag" width="40">
 
-Sou Estudante do curso de Engenharia da Computação pela [Univesp](https://www.univesp.br/), e estou migrando com sucesso para a área de Desenvolvimento Front-end. Também estudo na [Rocketseat](https://www.rocketseat.com.br/), e Desenvolvedor na [Synvia](https://www.synvia.com/),  possuo conhecimentos em `HTML`, `CSS` e `JavaScript`, e estou estudando `TypeScript`,`Angular` e `ReactJS`. 
+Sou formado em Engenharia da Computação pela [Univesp](https://www.univesp.br/), e estou atuando na área de Desenvolvimento Front-end.Desenvolvedor na [Synvia](https://www.synvia.com/), e estou em constante busca para ampliar meus conhecimentos
 
 <img src="https://user-images.githubusercontent.com/102333181/183000154-724b273a-f987-4128-88c0-0edc3b809bde.png" alt="United states's flag" width="40">
 
-I am a Computer Engineering student at [Univesp](https://www.univesp.br/), and I am successfully migrating to the Front-end Development area. I also study at [Rocketseat](https://www.rocketseat.com.br/), and developer at [Synvia](https://www.synvia.com/), I have knowledge in `HTML`, `CSS` and `JavaScript`, and I'm studying `TypeScript` and `ReactJS`.
+I hold a degree in Computer Engineering from [Univesp](https://www.univesp.br/), nd am currently working in Front-end Development. I am a Developer at [Synvia](https://www.synvia.com/), and am constantly seeking to expand my knowledge.
 
 ## Contact me
                 
